@@ -1,7 +1,8 @@
 import sys
 import math
 sys.path.append( "." ) 
-from indpendent_work.colors import color
+
+from independent_work.colors import color
 from PIL import Image
 import pygame
 import pandas as pd
