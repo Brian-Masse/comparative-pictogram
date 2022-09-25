@@ -8,4 +8,4 @@ Below is a screenshot, however the pdf version enables better zoom to truly appr
 
 [Here](https://www.kaggle.com/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021?select=HighestGrossers.csv) is the link to the data set I used
 
-![image]( https://github.com/Brian-Masse/CSC630/blob/main/indpendent_work/pictogram-week1/exports/Highest-Gorssing-Vis.png )
+![image]( https://github.com/Brian-Masse/comparative-pictogram/blob/main/exports/Highest-Gorssing-Vis.png )
